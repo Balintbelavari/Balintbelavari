@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Bálint Bélavári and I'm a Business Informatics student from Budapest, Hungary. Currently working on an AI scam detection project.</p>
+<p align="left">My name is Bálint Bélavári and I'm a Business and Informatics professional from Budapest, Hungary. Currently working on an AI scam detection project.</p>
 
 ###
 
